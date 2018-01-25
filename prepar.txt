@@ -1,1 +1,26 @@
-
+{0080FF}От головной боли: {FFFFFF}NyQuil, Tylenol, Advil
+{0080FF}От боли в животе, спазмов: {FFFFFF}Pancreate
+{0080FF}При отравлении: {FFFFFF}Activated Charcoal Tablets
+{0080FF}Боли в печени: {FFFFFF}Gallitin
+{0080FF}От сердечной боли: {FFFFFF}Gydrokod, Preductal
+{0080FF}От кашля: {FFFFFF}Vicks DayQuil, Mucinex
+{0080FF}От боли в горле: {FFFFFF}Cepacol, Steptistol
+{0080FF}От насморка: {FFFFFF}Afrin
+{0080FF}От аллергии: {FFFFFF}Nasalcrom, Chlor-Trimeton, Actifed, Sudafed, Benadryl
+{0080FF}Боли в почках: {FFFFFF}положить грелку или Revalgin, Urulisop
+{0080FF}Повышенное давление: {FFFFFF}Zestril, Prinevid
+{0080FF}Пониженное давление: {FFFFFF}Lasix, Norvasc
+{0080FF}Вывихи и растяжения: {FFFFFF}мази Nize 3000, Gevkonmep, Reparid
+{0080FF}Жаропонижающие лекарства: {FFFFFF}Vicks DayQuil, Mucinex
+{0080FF}От боли в половом органе: {FFFFFF}Prostaplanta
+{0080FF}От ожога: {FFFFFF}Radevit, Procelap, Ailozon
+{0080FF}От боли в глазах: {FFFFFF}Wobenzym
+{0080FF}От боли в ушах: {FFFFFF}Otypacs
+{0080FF}От мочевого пузыря: {FFFFFF}Monetal, Menovazip
+{0080FF}От боли в спине, в ногах или суставах: {FFFFFF}Nize 3000, Gevkonmep, Reparid
+{0080FF}При геморрое или боли в копчиковой части: {FFFFFF}Свечи от геморроя
+{0080FF}При диареи: {FFFFFF}Laynex 1200
+{0080FF}Препараты от сердечной недостаточности: {FFFFFF}Lykoped, Immunacian
+{0080FF}Бессонница: {FFFFFF}Taurin
+{0080FF}Запор: {FFFFFF}Laktipon, Forlax 3000
+{0080FF}Боль в зубах: {FFFFFF}Ibyprofel
