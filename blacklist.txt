@@ -1,18 +1,17 @@
-Taichi Medzuno
-Valeriy Miladze
-Marsell Ramirez
-Danil Trey
-Yura Summers
-Justin Lombardo
-Jon Summers
-Alessandro Moore
-Daniel Snow
+Marsell_Ramirez
+Danil_Trey
+Justin_Lombardo
+Alessandro_Moore
+Daniel_Snow
 Igor_Majerson
-Mikle Fenix
-Tom Evans
-Wiz Howard
-Vladislav Chizhik
-Yuzuru Nishimiya
-David Avetisyan
-Anton Bunin
-Sam_York
+Mikle_Fenix
+Tom_Evans
+Jeff_Hardman
+Jeff_Hooligan
+Wiz_Howard
+Vladislav_Chizhik
+Yuzuru_Nishimiya
+David_Avetisyan
+Anton_Bunin
+Jon_Summers
+Vinci_DeRossi
