@@ -1,6 +1,7 @@
 {0080ff}Версия 1.01 AHKMZSILV by AD
-{ffffff}1. Фикс багов с командами /rn, /fn и отыгровкой РП часов
+{ffffff}1. Фикс багов с командами /rn, /fn и отыгровкой РП часов.
 2. Добавление команды {0080ff}/update.
-{ffffff}3. Исправление ошибки в /экзамен
-4. Добавлены команды {0080ff}/setweather {ffffff}и {0080ff}/weatherhelp
-{ffffff}5. Добавлена система блокнота ({0080ff}/notepad{ffffff}, {0080ff}/shownotepad{ffffff},{0080ff}/delnotepad{ffffff})
+{ffffff}3. Исправление ошибки в /экзамен.
+4. Добавлены команды {0080ff}/setweather {ffffff}и {0080ff}/weatherhelp.
+{ffffff}5. Добавлена система блокнота ({0080ff}/notepad{ffffff}, {0080ff}/shownotepad{ffffff},{0080ff}/delnotepad{ffffff}).
+6. Был сбалансирован дизайн AHK. Теперь сообщение чата выполнены в белых и светло-синих цветах.
