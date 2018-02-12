@@ -26,6 +26,7 @@
 {0080ff}/shownotepad | /delnotepad - {ffffff}показать/удалить блокнот
 {0080ff}/setweather - {ffffff}изменить погоду
 {0080ff}/weatherhelp - {ffffff}id погод и их описание
+{0080ff}/ahkexit - {ffffff}выключение АХК
 
 		{0080FF}Команды для патруля:   
 {0080FF}/патрульнач - {FFFFFF}сообщить о начале патруля
