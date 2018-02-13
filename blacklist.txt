@@ -1,4 +1,5 @@
-Justin_Lombardo
+Skez_Lingel
+Mitya_Kuznetsov
 Alessandro_Moore
 Daniel_Snow
 Mikle_Fenix
@@ -11,3 +12,9 @@ Anton_Bunin
 Jon_Summers
 Vinci_DeRossi
 Star_McShow
+Makar_Fuzuki
+Sahsa_Ivashenko
+Alex_Rols
+Vlas_Kalashnikov
+Emin_Scarf
+Bruno_Jonson
